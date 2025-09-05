@@ -1,0 +1,5 @@
+pip install streamlit
+pip install PyPDF2
+pip install python-docx
+pip install google-generativeai
+pip install python-dotenv
